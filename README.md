@@ -1,6 +1,6 @@
-# Introduction to Git and GitHub
+# Interest Calculator in Python
 
-## Simple Interest Calculator
+## Simple Interest Calculator written in Python as part of a Coursera course "Intro to Git and Github"
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
